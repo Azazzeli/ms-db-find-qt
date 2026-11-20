@@ -1,0 +1,9 @@
+title: ms-db-find-qt
+description: Гайд — Qt-окно и поиск по БД стандартных компонентов Model Studio / nanoCAD NRX
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
