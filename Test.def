@@ -1,0 +1,6 @@
+LIBRARY Test
+EXPORTS
+ncrxEntryPoint
+acrxEntryPoint
+ncrxGetApiVersion
+acrxGetApiVersion

@@ -1,0 +1,45 @@
+# Build
+bin-x64/
+trash-x64/
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.recipe
+*.pch
+*.idb
+*.res
+
+# VS / Cursor
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+ipch/
+*.vsidx
+
+# Local SDK copies / archives (use your own ncadsdk)
+HelloNRX/
+HelloNRX.7z
+ClassLibrary1/
+ClassLibrary2/
+
+# Temp SQL probes / alternate builds
+_cat*.sql
+deploy/*_new.nrx
+deploy/*_old.nrx
+
+# Secrets
+.env
+.env.*
+*.pem
+credentials.json
